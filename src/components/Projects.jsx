@@ -24,7 +24,7 @@ const Projects = () => {
       title: 'Rock Paper Scissors',
       date: 'July 2023',
       lang: 'JavaScript',
-      link: 'https://rps-dun-ten.vercel.app/',
+      link: 'https://henrydizon-rps.vercel.app/',
       image: '/images/rps.jpg',
       desc: 'A simple RPS game created with JavaScript. It has basic functions such as picking and randomizing moves, auto-play, score resets, and locally storing scores.'
     },
@@ -32,7 +32,7 @@ const Projects = () => {
       title: 'Expense Tracker',
       date: 'July 2023',
       lang: 'JavaScript',
-      link: 'https://expense-tracker-phi-umber.vercel.app/',
+      link: 'https://henrydizon-expense-tracker.vercel.app/',
       image: '/images/expense-tracker.jpg',
       desc: 'A simple expense tracker created with JavaScript. A personal project that was made to help me with tracking my personal daily spendings.'
     },
@@ -40,7 +40,7 @@ const Projects = () => {
       title: 'Business Card',
       date: 'September 2023',
       lang: 'ReactJS',
-      link: 'https://business-card-liart.vercel.app/',
+      link: 'https://henrydizon-business-card.vercel.app/',
       image: '/images/business-card.jpg',
       desc: 'A business card created with ReactJS. My first React project that shows details about myself and my interests.'
     }

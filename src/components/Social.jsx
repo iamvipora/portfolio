@@ -11,10 +11,10 @@ const Social = () => {
 
     const activePage = window.location.href.split('#')[1]
 
-    if (activePage === 'home' || activePage === 'projects') {
-      return '#1A1818'
-    } else {
+    if (activePage === 'about' || activePage === 'contact') {
       return '#ECE7E1'
+    } else {
+      return '#1A1818'
     }
   }, [ location ])
   

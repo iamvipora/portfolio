@@ -5,10 +5,10 @@ const Projects = () => {
   
   const projects = [
     {
-      title: 'RJ Dizon Printing Press (Not Deployed)',
+      title: 'RJ Dizon Printing Press',
       date: 'August 2022',
       lang: 'PHP',
-      link: '',
+      link: 'https://rjdizon.onrender.com',
       image: '/images/rj-dizon.jpg',
       desc: 'A full-stack website created for the company RJ Dizon Printing Press as a college thesis. It serves as a way for the company to digitally store documentations, check inventory, and track orders.'
     },

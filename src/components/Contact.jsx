@@ -13,7 +13,7 @@ const Contact = () => {
                 <li>henrydizon99@gmail.com</li>
                 <li>henrydizon91@yahoo.com</li>
                 <li>(+63) 998 342 6056</li>
-                <li>(+63) 916 341 2304</li>
+                <li>(+63) 994 368 4855</li>
                 <li>Makati City, Philippines</li>
               </ul>
           </div>

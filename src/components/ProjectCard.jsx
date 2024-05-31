@@ -21,7 +21,7 @@ const ProjectCard = (props) => {
   </>
 
   return (
-  <a href={props.link}>
+    <a href={props.link}>
       <div className='h-72 w-72 text-[#ECE7E1] !bg-cover !bg-no-repeat !bg-center rounded-xl border border-black' style={{background: `url(${props.image})`}}>
         <div className='font-montserrat bg-[#1A1818] opacity-90 h-full flex flex-col justify-center items-center transition-all duration-100 rounded-xl' {...onHoverProps}>
           {

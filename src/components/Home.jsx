@@ -10,7 +10,7 @@ const Home = () => {
             <p className='font-bold text-3xl mb-3'>JOHN HENRY DIZON</p>
             <p>Aspiring Sofware Engineer</p>
             <p className='mb-3'>Located in Makati City, Philippines</p>
-            <p>HTML | CSS | Tailwind | JavaScript | ReactJS</p>
+            <p>HTML | CSS | Tailwind | JavaScript | ReactJS | Prisma | PostgreSQL</p>
           </div>
           <div className='px-20 w-full'>
             <ul className='text-9xl font-luxurious'>

@@ -20,14 +20,6 @@ const Projects = () => {
       image: '/images/beerus.png',
       desc: 'A college thesis that aims to educate people on antiviruses, malware, and cybersecurity in an enjoyable and interactive way while being educational through web-based gaming.'
     },
-    {
-      title: 'Rock Paper Scissors',
-      date: 'July 2023',
-      lang: 'JavaScript',
-      link: 'https://henrydizon-rps.vercel.app/',
-      image: '/images/rps.jpg',
-      desc: 'A simple RPS game created with JavaScript. It has basic functions such as picking and randomizing moves, auto-play, score resets, and locally storing scores.'
-    },
     { 
       title: 'Expense Tracker',
       date: 'July 2023',
@@ -43,6 +35,22 @@ const Projects = () => {
       link: 'https://henrydizon-business-card.vercel.app/',
       image: '/images/business-card.jpg',
       desc: 'A business card created with ReactJS. My first React project that shows details about myself and my interests.'
+    },
+    {
+      title: 'Temp. Feelings',
+      date: 'March 2024',
+      lang: 'ReactJS',
+      link: 'https://blog-react-swart-pi.vercel.app/',
+      image: '/images/temp-feelings.png',
+      desc: 'A blog where users can rant to other people about their problems, while staying anonymous. My first project that involved a back-end.'
+    },
+    {
+      title: 'Arcane Duel',
+      date: 'May 2024',
+      lang: 'ReactJS',
+      link: 'https://arcane-duel.vercel.app/',
+      image: '/images/arcane-duel.jpg',
+      desc: 'A single-player, duel-based, RPG game. Feel the nostalgia with its pixelated aesthetic, and vibes. (Still under development)'
     }
   ]
 

@@ -49,7 +49,7 @@ const Projects = () => {
       date: 'May 2024',
       lang: 'ReactJS',
       link: 'https://arcane-duel.vercel.app/',
-      image: '/images/arcane-duel.jpg',
+      image: '/images/arcane-duel.png',
       desc: 'A single-player, duel-based, RPG game. Feel the nostalgia with its pixelated aesthetic, and vibes. (Still under development)'
     }
   ]

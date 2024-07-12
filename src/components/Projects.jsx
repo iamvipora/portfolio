@@ -40,7 +40,7 @@ const Projects = () => {
       title: 'Temp. Feelings',
       date: 'March 2024',
       lang: 'ReactJS',
-      link: 'https://blog-react-swart-pi.vercel.app/',
+      link: 'https://https://tempfeelings.vercel.app/',
       image: '/images/temp-feelings.png',
       desc: 'A blog where users can rant to other people about their problems, while staying anonymous. My first project that involved a back-end.'
     },
@@ -50,7 +50,7 @@ const Projects = () => {
       lang: 'ReactJS',
       link: 'https://arcane-duel.vercel.app/',
       image: '/images/arcane-duel.png',
-      desc: 'A single-player, duel-based, RPG game. Feel the nostalgia with its pixelated aesthetic, and vibes. (Still under development)'
+      desc: 'A single-player, duel-based, RPG game. Feel the nostalgia with its pixelated aesthetic, and vibes.'
     }
   ]
 

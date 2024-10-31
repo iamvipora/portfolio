@@ -51,6 +51,14 @@ const Projects = () => {
       link: 'https://arcane-duel.vercel.app/',
       image: '/images/arcane-duel.png',
       desc: 'A single-player, duel-based, RPG game. Feel the nostalgia with its pixelated aesthetic, and vibes.'
+    },
+    {
+      title: 'Coin Insight',
+      date: 'October 2024',
+      lang: 'ReactJS',
+      link: 'https://coin-insight.vercel.app/',
+      image: '/images/coin-insight.png',
+      desc: 'Coin Insight is a website that tracks cryptocurrency and its digital market.'
     }
   ]
 
